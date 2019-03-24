@@ -1,7 +1,6 @@
-# An-Adventure-Game
-这是一个基于超链接（hyperlink）的探险游戏。
+## An-Adventure-Game
 
-这是一个基于hpyerlink（超链接）的探险游戏。
+这是一个基于超链接（hyperlink）的探险游戏。
 
 百无聊赖，你决定玩这个游戏。
 
